@@ -12,7 +12,7 @@ Allows admins to add code footer site-wide.
 
 == Installation ==
 
-1. Upload the entire `/short-code-plugin` folder to the `/wp-content/plugins/` directory
+1. Upload the entire `/newplugin` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the *Plugins* menu in WordPress
 3. Add code site-wide in *Settings>Footer settings
 
